@@ -1,3 +1,3 @@
 <?php
 
-$myvar echo 'hello world!';
+$myvar echo '<h1>hello world!</h1>';
